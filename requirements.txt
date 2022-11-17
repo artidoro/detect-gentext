@@ -1,0 +1,4 @@
+simpletransformers==0.63.9
+fire
+deepspeed
+accelerate

@@ -1,0 +1,9 @@
+{
+  "fp16": {
+    "enabled": true
+  },
+  "zero_optimization": {
+    "stage": 3
+  },
+  "train_batch_size": "auto"
+}

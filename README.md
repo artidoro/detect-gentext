@@ -1,4 +1,4 @@
-# Threat Scenarios and Best Practices for Neural Fake News Detection: A Case Study on COVID
+# Threat Scenarios and Best Practices for Neural Fake News Detection
 We present the resources associated with our paper published at COLING 2022. 
 
 > https://aclanthology.org/2022.coling-1.106/
